@@ -1,2 +1,2 @@
-# gdg-event-boilerplate
+# GDG Event Boilerplate
 Google Developers Group Event Boilerplate
